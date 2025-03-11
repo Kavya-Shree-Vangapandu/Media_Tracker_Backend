@@ -149,7 +149,7 @@ Title, URL, or Date.
 
 media-tracker/
 
-│── media_tracker/ (Django backend)
+| │── media_tracker/ (Django backend)
 
 │ ├── media_app/ (API app)
 
@@ -159,7 +159,7 @@ media-tracker/
 
 │ ├── requirements.txt
 
-│── media_tracker-frontend/ (Angular frontend)
+| │── media_tracker-frontend/ (Angular frontend)
 
 │ ├── src/
 
